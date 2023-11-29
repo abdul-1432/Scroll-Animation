@@ -22,7 +22,7 @@ This project implements a scroll animation using HTML, CSS, and JavaScript, insp
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/scroll-animation.git
+    git clone https://github.com/abdul-1432/Scroll-Animation
     ```
 
 2. Open `index.html` in your preferred web browser.
